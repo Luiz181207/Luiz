@@ -21,3 +21,4 @@ Currently learning:
 ## Contact
 
 - Email: luizfelipe.fernandes.cc@gmail.com
+- Phone number: (41) 999792650
