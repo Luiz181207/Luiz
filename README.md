@@ -3,10 +3,11 @@
 Computer Science student from Brazil.
 
 Currently learning:
-- Python
-- FastAPI
-- Java
-- Processing
+-HTML
+-CSS
+-JS
+-C/C++
+
 
 ## Projects
 
